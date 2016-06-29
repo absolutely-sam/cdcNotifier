@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorPrimaryDark">#7D7E93</color>
+    <color name="colorAccent">#4bab30</color>
 
     <color name="accent">#F50056</color>
     <color name="text_primary">#FFFFFF</color>
-    <color name="bkg_card">#8C9EFF</color>
+    <color name="bkg_card">#388E3C</color>
+
+    <color name="dialog_1">#689f38</color>
 
 </resources>

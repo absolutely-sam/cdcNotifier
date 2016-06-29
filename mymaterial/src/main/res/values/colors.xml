@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_login_login_color">#FFFFFF</color>
+    <!--<color name="material_login_register_color">#689F38</color>-->
+    <color name="material_login_register_color">#1B5E20</color>
+    <color name="material_login_login_error_color">#EF5350</color>
+    <color name="material_login_register_error_color">#CFD8DC</color>
+    <color name="material_login_login_text_color">#ffffff</color>
+    <color name="material_login_register_text_color">#ffffff</color>
+    <color name="testing_color">#000000</color>
+</resources>

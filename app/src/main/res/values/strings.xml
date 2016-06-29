@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">CDC Notifier</string>
+    <string name="title_activity_final">FinalActivity</string>
+
+    <string name="mail_user_name">cdcappmessage@gmail.com</string>
+    <string name="mail_password">cdcadmin</string>
+
+    <string name="about_us_string">About us</string>
+
+    <string name="sender_mail">cdcappdeveloper@gmail.com</string>
+    <string name="sender_mail_subject">Requesting Credentials</string>
+
 </resources>

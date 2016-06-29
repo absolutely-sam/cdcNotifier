@@ -10,7 +10,6 @@ public class JsonConfig {
     public static final String KEY_ID = "id";
     public static final String KEY_SUBJECT = "subject";
     public static final String KEY_MESSAGE = "message";
-    public static final String KEY_DATE = "Date";
-    public static final String KEY_TIME = "Time";
+    public static final String KEY_DATE_TIME = "posttime";
 
 }
